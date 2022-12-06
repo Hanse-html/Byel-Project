@@ -103,7 +103,6 @@ body {
     padding: 10px;
     box-sizing: border-box;
     overflow: hidden;
-    border: 1px solid white;
 }
 .head {
     display: flex;
@@ -116,7 +115,6 @@ body {
     padding: 5px;
     margin-bottom:40;
     color: white;
-    border: 1px solid white;
 }
 .head i {
     margin: 10px;
@@ -143,7 +141,6 @@ body {
 }
 .col-4 {
     background-color: rgba(105, 105, 105, 0.2);
-    border: 1px solid white;
     margin-top: 40px;
     border-radius: 10px;
     color: white;
